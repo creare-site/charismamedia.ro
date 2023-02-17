@@ -17,7 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; BinisteLaMunte.ro - Toate drepturile rezervate.</li>
+        <li>&copy; CharismaMedia.ro - Toate drepturile rezervate.</li>
       </ul>
     </footer>
   );

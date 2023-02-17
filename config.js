@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Biniste La Munte - Proiect Turistic', // <title>
+  siteTitle: 'Charisma Media - Outdoor Advertising', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'BinisteLaMunte.ro',
+  heading: 'CharismaMedia.ro',
   subHeading:
-    "Proiect Turistic.",
+    "Outdoor Advertising.",
   socialLinks: [
     {
       icon: 'fa-twitter',
@@ -21,12 +21,12 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/',
+      url: 'https://www.facebook.com/goscharismamedia',
     },
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/creare-site/binistelamunte.ro',
+      url: 'https://github.com/creare-site/charismamedia.ro',
     }
   ],
 };

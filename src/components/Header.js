@@ -7,7 +7,7 @@ export default function Footer() {
     <header id="header">
       <h1>{config.heading}</h1>
       <p>
-        Proiect Turistic - <a href="mailto:hello@binistelamunte.ro">hello@binistelamunte.ro</a>
+      Outdoor Advertising - <a href="mailto:contact@charismamedia.ro">contact@charismamedia.ro</a>
         <br />
       </p>
     </header>
